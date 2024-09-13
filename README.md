@@ -74,7 +74,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/C4rb0/C4rb0/output/snake.svg" alt="Snake animation" />
-
 ###
