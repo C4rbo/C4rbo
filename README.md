@@ -26,8 +26,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/C4rbo/C4rbo/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
