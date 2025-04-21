@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">In addition to my academic journey, I share content on TikTok where I explore topics like programming, cybersecurity, and emerging technologies, aiming to make these subjects more accessible and engaging for everyone. Feel free to check out my repositories, and if you like what I do, give a star ⭐️ or contribute with a pull request!</p>
-
-###
-
 <h2 align="left">Here are some of the languages and technologies I'm familiar:</h2>
 
 ###
