@@ -57,6 +57,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+</div>
 
 ###
 
