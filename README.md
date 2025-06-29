@@ -57,6 +57,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="70" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=rust" height="70" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="70" alt="svelte logo"  />
 </div>
 
 ###
